@@ -2,9 +2,9 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Kinetic UI — AI Motion Compiler & Interactive Studio Workbench',
-  description: 'Design, preview, and compile silky 60fps React & GSAP UI component animations using structured AI motion synthesis.',
-  keywords: ['Kinetic UI', 'Framer Motion', 'GSAP', 'Next.js', 'AI Motion Compiler', 'Animation Workbench'],
+  title: 'DevHuddle (Kinetic Arena) — Collaborative Production Incident Cockpit',
+  description: 'Collaborative, browser-based workspace for debugging production incidents as a team with Yjs CRDTs, Monaco Editor, Sandpack runtime, and live HTTP API profiling.',
+  keywords: ['DevHuddle', 'Kinetic Arena', 'Yjs', 'CRDT', 'Monaco Editor', 'Sandpack', 'Incident Response', 'Collaborative Debugging'],
 };
 
 export default function RootLayout({
